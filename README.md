@@ -1,6 +1,6 @@
-# Porn-O-Shag
+# P-O-S
 
-**a sandbox / dating sim game.**
+**a sandbox / survival game.**
 
 
 ## Submitting a bug report
@@ -10,9 +10,7 @@ This repo dedicated exclusively to user-submitted bug reports and development id
 ## Links
 
 * Get in touch with us! [Discord](https://discord.gg/sGTbBTE)
-* Latest build and progress updates: [Patreon](https://www.patreon.com/pornoshag)
-* Original Forum Thread: [F95Zone](https://f95zone.to/threads/you-know-what-they-say-if-you-want-something-done-right-do-it-yourself.44455/)
-* Build Archive: [G-Drive](https://drive.google.com/drive/folders/1edXm1B1Cf6WRg6YLRkPy04lMbG5mbXJv?usp=sharing)
+* Latest build and progress updates: TBD
 
 
 ## Common problems
